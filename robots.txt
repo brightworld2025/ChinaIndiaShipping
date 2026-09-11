@@ -1,0 +1,6 @@
+# robots.txt for China India Shipping Service
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://chinaindiashipping.com/sitemap.xml
